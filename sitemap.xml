@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.sur-investment.com/index.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logos-foot.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/business.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/architect.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/oil-gas.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/representations.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/regions.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://www.sur-investment.com/contact-us.html</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.sur-investment.com/images/menu3.png</image:loc>
+      <image:caption>Click to menu</image:caption>
+    </image:image>
+  </url>
+</urlset>

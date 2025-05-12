@@ -1,0 +1,231 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.sur-investment.com" resolutions="1x" timestamp="1747083403518">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="449170363" ref="representations:architect:regions:oil-gas:contact-us:business:index"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="3835636642" ref="representations:architect:regions:oil-gas:contact-us:business:index"/>
+    <file name="representations.css" crc="229964693" ref="representations"/>
+    <file name="nomq_representations.css" crc="4286070542" ref="representations"/>
+    <file name="architect.css" crc="4269313695" ref="architect"/>
+    <file name="nomq_architect.css" crc="214638317" ref="architect"/>
+    <file name="regions.css" crc="3879652990" ref="regions"/>
+    <file name="nomq_regions.css" crc="4263055831" ref="regions"/>
+    <file name="oil-gas.css" crc="3922498595" ref="oil-gas"/>
+    <file name="nomq_oil-gas.css" crc="4156386757" ref="oil-gas"/>
+    <file name="contact-us.css" crc="3917944458" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="296196846" ref="contact-us"/>
+    <file name="business.css" crc="167106866" ref="business"/>
+    <file name="nomq_business.css" crc="4232006786" ref="business"/>
+    <file name="index.css" crc="491797375" ref="index"/>
+    <file name="nomq_index.css" crc="487825906" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="museutils.js" crc="3939489907" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:business:architect:oil-gas:representations:regions"/>
+    <file name="webpro.js" crc="3856315280" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="require.js" crc="4177726516" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="4067571141" ref="index:oil-gas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="logo.png" crc="141333574" seo="true" ref="index:business:architect:oil-gas:representations:regions:contact-us">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="regions" alt=""/>
+      <caption webpage="regions" alt=""/>
+      <caption webpage="regions" alt=""/>
+      <caption webpage="regions" alt=""/>
+      <caption webpage="regions" alt=""/>
+      <caption webpage="architect" alt=""/>
+      <caption webpage="architect" alt=""/>
+      <caption webpage="architect" alt=""/>
+      <caption webpage="architect" alt=""/>
+      <caption webpage="architect" alt=""/>
+    </file>
+    <file name="map.png" crc="4047852609" ref="index:oil-gas">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="logos-foot.png" crc="3784743687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu3.png" crc="344055669" seo="true" ref="index:business:architect:oil-gas:representations:regions:contact-us">
+      <caption webpage="business" alt="Click to menu"/>
+      <caption webpage="business" alt="Click to menu"/>
+      <caption webpage="representations" alt="Click to menu"/>
+      <caption webpage="representations" alt="Click to menu"/>
+      <caption webpage="oil-gas" alt="Click to menu"/>
+      <caption webpage="oil-gas" alt="Click to menu"/>
+      <caption webpage="index" alt="Click to menu"/>
+      <caption webpage="index" alt="Click to menu"/>
+      <caption webpage="contact-us" alt="Click to menu"/>
+      <caption webpage="contact-us" alt="Click to menu"/>
+      <caption webpage="regions" alt="Click to menu"/>
+      <caption webpage="regions" alt="Click to menu"/>
+      <caption webpage="architect" alt="Click to menu"/>
+      <caption webpage="architect" alt="Click to menu"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:business:architect:oil-gas:representations:regions:contact-us"/>
+    <file name="architecture-u5456.png" crc="3780555586" ref="business"/>
+    <file name="architecture-u5456-r.png" crc="4276002862" ref="business"/>
+    <file name="oil and gas-u6445.png" crc="4015421205" ref="business"/>
+    <file name="oil and gas-u6445-r.png" crc="403360012" ref="business"/>
+    <file name="consulting-u7130.png" crc="218607557" ref="business"/>
+    <file name="consulting-u7130-r.png" crc="4255179021" ref="business"/>
+    <file name="consulting-u7130-a.png" crc="4003754744" ref="business"/>
+    <file name="telecomunic.png" crc="88554591" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="infrastructure.png" crc="79016153" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="agro.png" crc="237200671" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="energy.png" crc="250441943" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="materials.png" crc="174606154" ref="business">
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+      <caption webpage="business" alt=""/>
+    </file>
+    <file name="architecture-u54562.png" crc="3984779170" ref="business"/>
+    <file name="architecture-u5456-r2.png" crc="435158629" ref="business"/>
+    <file name="oil and gas-u64452.png" crc="73608507" ref="business"/>
+    <file name="oil and gas-u6445-r2.png" crc="4168760870" ref="business"/>
+    <file name="consulting-u71302.png" crc="218607557" ref="business"/>
+    <file name="consulting-u7130-r2.png" crc="4255179021" ref="business"/>
+    <file name="consulting-u7130-a2.png" crc="4003754744" ref="business"/>
+    <file name="architecture-u54563.png" crc="4118503607" ref="business"/>
+    <file name="architecture-u5456-r3.png" crc="266321717" ref="business"/>
+    <file name="oil and gas-u64453.png" crc="3848193245" ref="business"/>
+    <file name="oil and gas-u6445-r3.png" crc="282923044" ref="business"/>
+    <file name="consulting-u71303.png" crc="218607557" ref="business"/>
+    <file name="consulting-u7130-r3.png" crc="4255179021" ref="business"/>
+    <file name="consulting-u7130-a3.png" crc="4003754744" ref="business"/>
+    <file name="architecture-u54564.png" crc="3902885167" ref="business"/>
+    <file name="architecture-u5456-r4.png" crc="397145187" ref="business"/>
+    <file name="oil and gas-u64454.png" crc="3989985013" ref="business"/>
+    <file name="oil and gas-u6445-r4.png" crc="3912457096" ref="business"/>
+    <file name="consulting-u71304.png" crc="315478399" ref="business"/>
+    <file name="consulting-u7130-r4.png" crc="4079627708" ref="business"/>
+    <file name="consulting-u7130-a4.png" crc="4006377326" ref="business"/>
+    <file name="architecture-u54565.png" crc="3902885167" ref="business"/>
+    <file name="architecture-u5456-r5.png" crc="397145187" ref="business"/>
+    <file name="oil and gas-u64455.png" crc="3989985013" ref="business"/>
+    <file name="oil and gas-u6445-r5.png" crc="3912457096" ref="business"/>
+    <file name="consulting-u71305.png" crc="315478399" ref="business"/>
+    <file name="consulting-u7130-r5.png" crc="4079627708" ref="business"/>
+    <file name="consulting-u7130-a5.png" crc="4006377326" ref="business"/>
+    <file name="architecture-a.png" crc="3883188950" ref="architect">
+      <caption webpage="architect" alt=""/>
+      <caption webpage="architect" alt=""/>
+    </file>
+    <file name="architecture-a-u6051-fr.png" crc="58470760" ref="architect"/>
+    <file name="architecture-a-u6051-fr2.png" crc="166103003" ref="architect"/>
+    <file name="architecture-a-u6051-fr3.png" crc="223978557" ref="architect"/>
+    <file name="oil-and-gas-1.png" crc="4113378276" ref="oil-gas">
+      <caption webpage="oil-gas" alt=""/>
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="grafico.png" crc="151645337" ref="oil-gas">
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="grafico1-u6985-fr.png" crc="4025766118" ref="oil-gas"/>
+    <file name="grupo 2.png" crc="4090428271" ref="oil-gas">
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="arrow top-u10110-fr.png" crc="36350426" ref="oil-gas"/>
+    <file name="oil-and-gas-1-u6978-fr.png" crc="4256709111" ref="oil-gas"/>
+    <file name="grafico1-u6985-fr2.png" crc="4086933185" ref="oil-gas"/>
+    <file name="oil-and-gas-1-u6978-fr2.png" crc="13332309" ref="oil-gas"/>
+    <file name="grafico-u6984-fr.png" crc="3214650" ref="oil-gas"/>
+    <file name="grafico1-u6985-fr3.png" crc="4057122627" ref="oil-gas"/>
+    <file name="grupo 2-u11583-fr.png" crc="4237298052" ref="oil-gas"/>
+    <file name="grafico-u6984-fr2.png" crc="4173314412" ref="oil-gas"/>
+    <file name="grafico1-u6985-fr4.png" crc="397174885" ref="oil-gas"/>
+    <file name="grupo 2a.png" crc="3858509174" ref="oil-gas">
+      <caption webpage="oil-gas" alt=""/>
+    </file>
+    <file name="map1.png" crc="532155698" ref="representations">
+      <caption webpage="representations" alt=""/>
+    </file>
+    <file name="logos-bw.png" crc="3877581282" ref="representations">
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+      <caption webpage="representations" alt=""/>
+    </file>
+    <file name="map1-u8398-fr.png" crc="3806015221" ref="representations"/>
+    <file name="map1-u8398-fr2.png" crc="464097740" ref="representations"/>
+    <file name="logos-bw-u8364-fr.png" crc="4120643941" ref="representations"/>
+    <file name="map-u9952-fr.png" crc="255404767" ref="regions"/>
+    <file name="map-u9952-fr2.png" crc="3759749241" ref="regions"/>
+  </folder>
+  <file name="index.html" crc="3898071789" seo="true" mt="1747083045283" redirect="true"/>
+  <file name="business.html" crc="3995965420" seo="true" mt="1747083045283" redirect="true"/>
+  <file name="architect.html" crc="3805162711" seo="true" mt="1747083045283" redirect="true"/>
+  <file name="oil-gas.html" crc="217631136" seo="true" mt="1747083287258" redirect="true"/>
+  <file name="representations.html" crc="249408709" seo="true" mt="1747083045283" redirect="true"/>
+  <file name="regions.html" crc="4177703270" seo="true" mt="1747083045283" redirect="true"/>
+  <file name="contact-us.html" crc="225525545" seo="true" mt="1747083045283" redirect="true"/>
+</manifest>
